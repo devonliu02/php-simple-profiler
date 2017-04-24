@@ -1,1 +1,1 @@
-# php-simple-profiler
+# php-wonders
